@@ -1,0 +1,7 @@
+public class ${className}Builder {
+
+    public ${className} build(){
+        return new ${className}();
+    }
+
+}
